@@ -1,0 +1,11 @@
+[package]
+name = "vote"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+chrono = "0.4.26"
+rand = "0.8.5"
+
+[dev-dependencies]
+random_name_generator = "0.3.4"
